@@ -1,9 +1,4 @@
-{
-  "created_time":1747243058322,
-  "creator_user_name":"chip.graham@databricks.com",
-  "job_id":847914055558630,
-  "run_as_user_name":"chip.graham@databricks.com",
-  "settings": {
+{ "settings": {
     "email_notifications": {
       "no_alert_for_skipped_runs":false
     },
